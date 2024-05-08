@@ -1,1 +1,61 @@
-https://github.com/mbayero17/mbayero17_portfolio.git
+mbayero17_portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Welcome to My Portfolio</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#My certifications">Portfolio</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>Welcome to my portfolio! My name is muhammad Abdullah bayero I am a student from northwest university kano, I am currently there as an undergraduate studiying information and communication technology I'm a web developer passionate about creating beautiful and functional websites.</p>
+</section>
+
+<section id="My certifications">
+  <h2>Portfolio</h2>
+  <div class="gallery">
+    <img src="img.jpg" alt="img.jpg">
+    <img src="photo2.jpg" alt="Photo 2">
+    <img src="photo3.jpg" alt="Photo 3">
+    <!-- Add more photos as needed -->
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>You can reach me using the following email:bayeromuhammad17@gmail.com and also through my lines which are  <ul>1.08131612302</ul>
+  <ul>2.09149581231</ul>
+  </p>
+</section>
+<section id="My certifications">
+  <h2>certifications</h2>
+  <p>The following are the certificates that i had gotten from my primary educations, secondary and also other computer related courses that i have attended<ul>1.primary and junior secondary school certificate from the light international school, gandun albasa</ul>
+  <ul>2.senior secondary certificate fron Andal Science Academy, kabuga</ul>
+  <ul>3.I am currently at yusuf maitama University kano studying ict</ul>
+  </p>
+           
+</section>
+
+<footer>
+  <p>&copy; 2024 My Portfolio</p>
+</footer>
+
+</body>
+</html>
+
+
